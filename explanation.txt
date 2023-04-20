@@ -1,0 +1,19 @@
+Here is the explanation of these tasks that were provided in PDF file
+------------------
+task 2. Installing yii2
+According to this task - was installed Yii2 framework and created a project. This project is in archive basic.zip.
+But I faced with the issue during running this project locally. Once I wrote a command in a terminal 
+“php -S localhost:8000" 
+and typed the url "http://localhost:8000" in a browser - I saw the issue on a web-page:
+ "The requested source '/' was not found" (please find the appropriated screenshots in a folder "screenshots")
+
+task 3. SEO optimization
+I created a simple html-page with the seo-rules. Please find this index.html file in a folder "seo-optimization"
+
+task 4. Mobile layout adaptation
+I downloaded the whole page (with pictures, css-files and scripts) as much as was possible and changed for mobile screens only the heading h2 (on the top of the page).
+The rest website elements were adapted for mobiles correctly (in my opinion). I tested responsive design for several screen resolutions - it works correctly.
+Please find this landing in a folder "mobileview". 
+-------------
+
+If any suggestions or remarks - please let me know
